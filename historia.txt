@@ -2,4 +2,9 @@ Esta es la historia de Julian
 
 Julian tiene  55 años y nació en Bangladesh
 
+<<<<<<< HEAD
 Hoy hablaremos de su vida y obra maestra.
+=======
+Hoy hablaremos de su historia.Mañana nos enfocaremos en su vida laboral
+Ma
+>>>>>>> cabecera
